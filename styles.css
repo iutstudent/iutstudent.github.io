@@ -1,0 +1,15 @@
+body{
+	background-image: url(anonymous.jpg);
+	color: white;
+	font-size: 20pt;
+}
+h1{
+	font-family: verdana;
+}
+h3{
+	font-family: verdana;
+}
+p{
+	border: 1px red dashed;
+	padding: 30px;
+}
